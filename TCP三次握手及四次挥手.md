@@ -1,6 +1,5 @@
 # TCP三次握手
 ## 三次握手过程
-！[内容自填](https://github.com/ym652324/network/blob/master/images/ZZ9H%40%25C(0J%60%7B%24MY5%60%25FO%40GV.png)
-![image](https://github.com/ym652324/network/blob/master/images/ZZ9H%40%25C(0J%60%7B%24MY5%60%25FO%40GV.png)
+![image](https://github.com/ym652324/network/blob/master/image/QQ%E5%9B%BE%E7%89%8720181012165306.png)
 
 ## 两次握手不行吗？
