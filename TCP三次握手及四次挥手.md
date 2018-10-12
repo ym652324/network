@@ -2,9 +2,9 @@
 ### 1、三次握手过程
 ![image](https://github.com/ym652324/network/blob/master/image/QQ%E5%9B%BE%E7%89%8720181012165306.png)
 <br/>
-（1）客户端发送包，其中标志位SYN=1（生成序号seq=i），进入SYN_SENT状态
-（2）服务器端接收到包，识别到SYN=1，发送确认包，ACK=1（ack=i+1），SYN=1（seq=j）
-（3）客户端接收到确认包，发送确认包ACK=1，ack=j+1，seq=i+1
+（1）客户端发送包，其中标志位SYN=1（生成序号seq=i），进入SYN_SENT状态  
+（2）服务器端接收到包，识别到SYN=1，发送确认包，ACK=1（ack=i+1），SYN=1（seq=j）  
+（3）客户端接收到确认包，发送确认包ACK=1，ack=j+1，seq=i+1  
 ### 2、标志位及序号
 （1）SYN标志位：同步标志，表示建立连接连接。  
 （2）ACK标志位：确认标志，确认序号有效  
